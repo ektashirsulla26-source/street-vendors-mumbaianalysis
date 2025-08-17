@@ -1,0 +1,14 @@
+# Python libraries
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+kmodes
+
+# R libraries (if using renv or manual installation)
+car
+MASS
+lmtest
+glmnet
